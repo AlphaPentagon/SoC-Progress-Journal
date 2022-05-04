@@ -71,6 +71,7 @@ Really enjoyed today.  Getting to know my new partners better and I'm adopting a
 and cemented.
 
 Learned about asynchronous coding and JS methods
+
     - setTimeout();
     - setInterval();
     - clearInterval();
@@ -79,6 +80,7 @@ APIs (Application Programming Interface)
     - a way for data to be exposed so you can interact with it
 
 Fetch API
+
     - fetch() method
     - front end only
     - can us to request data from an API
@@ -87,6 +89,7 @@ Fetch API
             - promise that data will be delivered
         
 await
+
     - Always await a promise!
         - waits for the promise to be delivered
         - must be used in an async function
@@ -95,17 +98,20 @@ await
         }
 
 json
+
     - use .json to unpack the data from the response
     - use 'await' before the .json method to receive the unpacked data and not the promise
     - e.g. let data = await response.json();
 
 Http
+
     - Hyper Text Transfer Protocol
     - lof of different requests
     - most common request is 'Get' request
     - fetch method uses the 'Get' request as default
 
 JSON statement
+
     - turn an object into a JSON
         - you 'stringify it'
         - the 'key' is a string
@@ -113,6 +119,7 @@ JSON statement
         - parsing it
 
 Promise states
+
     - Pending
         - Resolved
         - Rejected
