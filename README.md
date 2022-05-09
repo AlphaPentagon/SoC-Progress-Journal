@@ -26,7 +26,7 @@ You can then use various methods to interact with these properties.
 **document.querySelector();**
 
     - This will select the specified element
-    - e.g. `document.querySelector("h1")` would select the h1 element
+    - e.g. document.querySelector("h1") would select the h1 element
     - can store this result in a variable e.g. let mainTitle = document.querySelector("h1")
 
     Caveats 
@@ -39,12 +39,12 @@ You can then use various methods to interact with these properties.
     - selects all the elements matching the one specified
     - stores them in a "node list"
     - can be accessed in the same way as an array
-        - e.g. `selectedElement[0]` would select the first element of that node list
+        - e.g. selectedElement[0] would select the first element of that node list
 
 **.innerText = "";**
 
     - can be used to change the text of the element
-        - e.g. `mainTitle.innerText = "changedTitleText";`
+        - e.g. mainTitle.innerText = "changedTitleText";
 
 **document.createElement();**
 
@@ -53,7 +53,7 @@ You can then use various methods to interact with these properties.
 **.appendChild();**
 
     - appends the specificed element as a child of the parent
-        - e.g. `document.parent.appencChild("child");`
+        - e.g. document.parent.appencChild("child");
 
 **.removeChild();**
 
@@ -75,10 +75,11 @@ Really enjoyed today.  Getting to know my new partners better and I'm adopting a
 and cemented.
 
 Learned about asynchronous coding and JS methods
-
-    - `setTimeout();`
-    - `setInterval();`
-    - `clearInterval();`
+```
+    setTimeout();
+    setInterval();
+    clearInterval();
+```
 
 **APIs (Application Programming Interface)**
     - a way for data to be exposed so you can interact with it
@@ -97,15 +98,15 @@ Learned about asynchronous coding and JS methods
     - Always await a promise!
         - waits for the promise to be delivered
         - must be used in an async function
-        - e.g ```async function(){
+        - e.g async function(){
             let response = async fetch("URL");
-        }```
+        }
 
 **json**
 
     - use .json to unpack the data from the response
     - use 'await' before the .json method to receive the unpacked data and not the promise
-    - e.g. `let data = await response.json();`
+    - e.g. let data = await response.json();
 
 **Http**
 
