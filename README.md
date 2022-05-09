@@ -124,4 +124,16 @@ Promise states
         - Resolved
         - Rejected
 
+05 / 05
 
+Today we learned about different personality types (I'm an ISFJ, not matter how many times I take and number of different tests...), how they work within teams and how we can mitigate against any potential clashes.
+
+We also took a further dive into APIs, navigating data and learned about the second fetch parameter {method:"",header: "", body {}} to enable us to use other methods, such as POST, PUT and PATCh.
+
+Our team struggled with the afternoon task, which was an escape room puzzle.  We misunderstood the problem and were treating the steps like individual tasks, rather than a whole scenario.  Once we were gently nudged in the right diretion though we were able to use our knowledge to find the hidden data in the API and successfully 'escape the room'.
+
+I had my mentor meeting in the evening which was great - Chris is such a great guy and really understanding.  He has made it clear that our meetings is a safe space for me to say what is challenging me or going well, and that is really helpful.
+
+06 / 05
+
+Today was our weekly hackathon project.  Todays task was to use an API to create some sort of game , or interavtive web page.  We chose a trivia API and used it to create a simple frontend game that would ask you 10 random questions and keep score of how well you do.  I especially enjoyed setting up the event listeners on the buttons and getting them to call different functions.  All in all I thought our team worked really well together and we achieved, and learnt alot, throughout the day.  We then presented them to about 30ish people, which was a great chance to practice our presentation skills.
