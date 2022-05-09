@@ -1,4 +1,4 @@
-# Craig's School of Code Progress Journal
+# Craig's School of Code Progress Journal 💻|📘|📈
 
 ## Week 2
 
@@ -131,9 +131,9 @@ Learned about asynchronous coding and JS methods
 
 ### 05 / 05
 
-Today we learned about different personality types (I'm an ISFJ, not matter how many times I take and number of different tests...), how they work within teams and how we can mitigate against any potential clashes.
+Today we learned about different personality types (I'm an ISFJ, no matter how many times I take and number of different tests...), how they work within teams and how we can mitigate against any potential clashes.
 
-We also took a further dive into APIs, navigating data and learned about the second fetch parameter {method:"",header: "", body {}} to enable us to use other methods, such as POST, PUT and PATCh.
+We also took a further dive into APIs, navigating data and learned about the second fetch parameter {method:"",header: "", body {}} to enable us to use other methods, such as POST, PUT and PATCH.
 
 Our team struggled with the afternoon task, which was an escape room puzzle.  We misunderstood the problem and were treating the steps like individual tasks, rather than a whole scenario.  Once we were gently nudged in the right diretion though we were able to use our knowledge to find the hidden data in the API and successfully 'escape the room'.
 
