@@ -146,3 +146,60 @@ Today was our weekly hackathon project.  Todays task was to use an API to create
 ## Week 3
 
 ### 09/05
+
+Today we took our first step into UX with a guest speech from Pavaan Buddhdev, who enchanted us with close up magic and tales of UX sorcery.  Then we looked into Agile methodology and the benefits of this over the waterfall method of working.  We met our new pair programmers for the week and then took part in a spot the difference game, but for UI/UX, where we had to determine which of the screenshots of an app looked the 'most correct'.  We did really well, only missing a couple!
+
+Some notes from the day:
+
+- Agile
+    - Individuals and interactions over processes and tools
+    - Working software over comprehensive documentation
+    - Customer collaboration over contract negotiation
+    - Responding to change over following a plan
+
+- UX
+    - User experience
+        - The beginning of the product
+- UI
+    User Interface
+        - How the product's interfaces look and function
+
+### 10/05
+
+Another day of UX, with another guest speech, this time from Javaid Karim and Alex Fairholm from Nester.  They walked us through their UX choices and career paths which was really interesting and insightful.
+
+We looked at UX design thinking as well as user stories and user persona's and were tasked with designing an application process for an imaginary bootcamp.  At the end we got to prototype these design ideas using flow charts.  We also took a look at CSS variables which appear to be super helpful for reusability and updating code efficiently.
+
+Notes:
+
+- UX Design Thinking
+    1. Empathise - research user needs
+    2. Define - state users needs & problems
+    3. Ideate - challenge assumptions & create ideas (can be split further into the dreamer, realist and critic phases)
+    4. Prototype - Start to create solutions
+    5. Test - try your solutions out
+
+### 11/05
+
+Today we moved into UI territory.  We had a great guest speech from Luke Edwards. who is the Lead UI designer at Immediate Media.  He gave some really good tips on what sets a potential UI design applicant out, including showing enthusiasm through Github projects and demo's.  Real valuable stuff.
+
+Then we took the UX design from the previous day and started to think about how we would design a UI for it.  We learned about colour palletes, principles of design, low fidelity vs high fidelity wireframes, accessibility, and different tools to enable us to design effectively.
+
+At the end of the day we touched on CSS organisation and conventions and specificity.
+
+- Accessibility
+    -  Lighthouse, part of the Google dev tools is a great tool to show you how accesible your website is
+
+- Elements & Principles of design
+    - Line
+    - Shape
+    - Direction
+    - Size
+    - Texture
+    - Colour
+    - Balance
+    - Proximity
+    - Alignment
+    - Repeating
+    - Contrast
+    - Space
