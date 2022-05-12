@@ -203,3 +203,20 @@ At the end of the day we touched on CSS organisation and conventions and specifi
     - Repeating
     - Contrast
     - Space
+
+### 12/05
+
+More UI/UX and advanced CSS learning today.
+
+Had a great mindset session about different listening styles and deep listening. Definitely identify as a shrewd / lost listener, and found that just being aware of these traits I was able to challenge my habits throughout the day.
+
+Then we created a journey map of a user experience for a flight comparison site - ours is below.  It was a great team effort and we all collaborated really well together - I'm really proud of all that we achieved! 
+
+Today I learned the value of actually speaking to a potential user during your user research, as opposed to just getting feedback from a survey.  This allowed us to gain real insight into the user's empotional journey and allowed us to identify potential pain points and opportunities for improvement.
+
+![Journey Map - showing user journey of using an airline comparison website to find a cheap flight](/images/journey_map.PNG)
+
+Links:
+
+[Journey Mapping 101](https://www.nngroup.com/articles/journey-mapping-101/?ref=uxtools-challenges)
+ 
