@@ -213,10 +213,46 @@ Had a great mindset session about different listening styles and deep listening.
 Then we created a journey map of a user experience for a flight comparison site - ours is below.  It was a great team effort and we all collaborated really well together - I'm really proud of all that we achieved! 
 
 Today I learned the value of actually speaking to a potential user during your user research, as opposed to just getting feedback from a survey.  This allowed us to gain real insight into the user's empotional journey and allowed us to identify potential pain points and opportunities for improvement.
+<br />
 
-![Journey Map - showing user journey of using an airline comparison website to find a cheap flight](/images/journey_map.PNG)
+![Journey Map - showing user journey of using an airline comparison website to find a cheap flight](/images/12_05_journey_map.PNG)
 
 Links:
 
 [Journey Mapping 101](https://www.nngroup.com/articles/journey-mapping-101/?ref=uxtools-challenges)
+
+### 13/05
+
+Hackathon day - we went through the UX and UI process to create a landing page for a business.  Here's mine and Simon's hi-def wireframe.  It was a great day and a real collaborative effort.  Finished the day feeling really positive and thankful to my colleagues.
+<br />
+
+![Hi-fidelity wireframe - showing landing page design for a Community Cafe business](/images/13_05_hidef_wireframe.PNG)
+
+### 14/05-15/05
+
+Weekend recap task - working on the UX and UI design process for my own portfolio website.  I went for a bold, clean and clear to read design with lots of space.  Can't wait to actually start coding it!
+
+### Lo-fi wireframe
+<br />
+
+![Lo-fidelity wireframe - showing landing page design for my own portfolio website](/images/14_05_lofi_wireframe.PNG)
+
+## Hi-fi wireframe
+<br />
+
+![Hi-fidelity wireframe - showing landing page design for my own portfolio website](/images/14_05_hidef_wireframe.PNG)
+
+### 16/05
+
+Started out backend journey with a deep dive into Node.js - getting it running, installing modules with npm, importing and exporting methods using ES6 and CommonJS.
+
+### 17/05
+
+Explored the server and client relationship.  Used express library to spin up local servers, send requests and receive responses.  Explored how to respond with different data depending on the path accessed, how to use nodemon to automatically restart a server whenever a change to the code is made, and how to create shortcuts using scripts to run our code using npm start and npm run dev.
+
+### 18/05
+
+Learned how to separate out our code into different routes, using express.Router(), along with using queries to serve up data dynamically.  Took a high level look into Rest APIs and their principles, what it means for an API to be RESTful, URLS and URIs and CRUD - Create, Read, Update and Delete - actions.  In express this translates to Post, Get, Put/Patch and Delete.
+
+Takeaway from today - REST allows us to create consistent interfaces that use standard conventions that help us structure our API and help developers use it.
  
