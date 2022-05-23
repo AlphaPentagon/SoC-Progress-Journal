@@ -255,4 +255,24 @@ Explored the server and client relationship.  Used express library to spin up lo
 Learned how to separate out our code into different routes, using express.Router(), along with using queries to serve up data dynamically.  Took a high level look into Rest APIs and their principles, what it means for an API to be RESTful, URLS and URIs and CRUD - Create, Read, Update and Delete - actions.  In express this translates to Post, Get, Put/Patch and Delete.
 
 Takeaway from today - REST allows us to create consistent interfaces that use standard conventions that help us structure our API and help developers use it.
+
+### 19/05
+
+Mindset session about inner critic and building resilience.  Three types - Perfectionist, People Pleaser and The Pusher.  We explored what our inner critic might look like and what it might say, and also what our inner champion might look like and say.  We then practised challenging our inner critic by writing and performing a short presentation.
+
+Technically, we looked at Middleware and the next() function, which allows the request to be passed to the next handler in the middleware chain, as well as the POST function in express and the use of Postman to send our CRUD requests.
+
+We also did a short research session and presentation on Cyber Security - me and my partner looked at Cross Site Scripting and Cross Site Request Forgery.  Both made us aware of security concerns when creating APIs, and JS in general.
+
+### 20/05
+
+Hackathon day! Our task was to build a back end using Express and node, and create our basic CRUD requests in our router file.  Me and my partner worked well together and planned each step, and soon were on to helping others understand and troubleshoot their issues.  All in all it was a really enjoyable day and I learnt alot.
+
+### 23/05
+
+Took our first look at databases and persisten storage.  Explored the difference between relational vs non-relational databases - relational is table modeled, non-relational is not.
+
+We then started learning basic PostgreSQL syntax - SELECT, FROM, WHERE, INSERT INTO, RETURNING, etc - and played around on dbfiddle to explore using the language.
+
+The highlight of the day was a fantastic talk from Kyle Simpson, of 'You Don't Know JS' fame.  We got to watch one of his newest presentation videos and then have a Q&A.  It was great to listen to Kyle and hear him talk about his journey and give us advice for our journeys. In particular I liked his advice on job interviews - ask your prospective employers "tell me 6 months in and 12 months in what I will have learned on the job?" - and that most job specifications should be viewed as 'wishlists' not requirements.
  
