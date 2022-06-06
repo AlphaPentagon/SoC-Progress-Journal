@@ -275,4 +275,76 @@ Took our first look at databases and persisten storage.  Explored the difference
 We then started learning basic PostgreSQL syntax - SELECT, FROM, WHERE, INSERT INTO, RETURNING, etc - and played around on dbfiddle to explore using the language.
 
 The highlight of the day was a fantastic talk from Kyle Simpson, of 'You Don't Know JS' fame.  We got to watch one of his newest presentation videos and then have a Q&A.  It was great to listen to Kyle and hear him talk about his journey and give us advice for our journeys. In particular I liked his advice on job interviews - ask your prospective employers "tell me 6 months in and 12 months in what I will have learned on the job?" - and that most job specifications should be viewed as 'wishlists' not requirements.
+
+### 24/05
+
+Learned about DELETE and CREATE syntax for PostgreSQL.  Also touched on SQL joins - inner joins, left and right outer joins, and full outer joins.  Explored what an Entity Relationship Diagram (ERD) is and how it is useful.
+
+### 25/05 
+
+Started using SQL in VS code and node, using node postgres.  Learned about pooling, environment variables (using node dotenv), preloading modules in scripts inline (e.g. -r dotenv/config).  Also looked at creating scripts to create, populate and drop our tables, as well as sanitising our SQL so it can't be exploited for SQL injections - use $1, $2, [var1, var 2]
+
+### 26/05
+
+Mindset session exploreing locus of control, being specific about what we don't know, using the GROW model and humble enquiry model to help others and support them in their growth.  Then recapped the concepts from yesterday.
+
+### 27/05
+
+Hackathon day! Connecting a DB to our backend and writing our models using SQL to interact with the DB.  Really helped solidify all we had learned over the week.
+
+## 30/05
+
+Great talk from Nadeem Shabir, from Talis.  Highlights:
+
+    - Great junior devs
+        - know how to learn
+        - know how to communicate
+        - know how to unlearn
+    - Write just enough code
+    - Apply for jobs where you care or are interested in what the business does
+    - Can you explain how you solved a problem?  Can you communicate your ideas coherently? How do you react to conflict?
+    -  Give yourself a rest
+        - focus on the problem infornt of you
+        - don't try and learn everything
+        - Sometimes just say you aren't doing anything else!
+
+Started learning about Test Driven Development (TDD) using Jest.  Different types of tests - Unit tests, integration tests, End to End (UI) tests.  Using the 3A pattern - Arrange, Act, Assert.  Using the Given..., When..., Then... pattern for test descriptions.  Write a test that fails, write enough code that passes the test (and only passes it), then refactor the code - Red, Green, Refactor.
+
+### 31/05 
+
+Today we learned about Cypress for Front End Testing - End to end testing.  Had a talk from Jordan Powell and Robert Guss from Cypress - they walked us through what Cypress can do and how to use it.  Really interesting and useful tool!
+
+### 01/06
+
+Practised using Cypress to conduct end to end testing on a front end app.  Learned about automated testing ussing superTest - allows us to test API's and the back end (e.g. instead of manually testing with postman).
+
+### 06/06
+
+Started looking at React!
+    - reacts quickly to changes
+    - frontend library
+    - open source
+
+Discussed differences between mutable and immutable
+    - Mutable
+        - changes the same object
+        - storage efficient
+        - unpredictable and brittle
+        - complex to compare
+    - Immutable
+        - new object with changes
+        - less storage efficient
+        - more predictable
+        - easier to compare
+
+ - React work best when changes are made immutably, as it relies on a Virtual Dom comparison with the regular DOM to look for changes.
+
+ - React functions - convention is to capitalise the first letter e.g. function Heading()
+
+ - React.createElement(p1, p2, p3) - create an element using React, p1 = element tag to create, p2 = props, p3 = children
  
+ - ReactDOM.render(p1, p2) - p1 = html to render, p2 = element in which to render the html e.g. root, body, etc
+
+ - We can pass in props (properties) as an object e.g. { className: "button",  }
+
+ React means we can build individual , reusable components for our front end - quick to build and easy to scale up!
